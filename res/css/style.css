@@ -1,0 +1,37 @@
+body {
+    background-image: url(/res/img/mainimg.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#uvod {
+    font-size: 25px;
+    font-family: fantasy;
+    color: white;
+    position: absolute;
+    top: 480px;
+    left: 520px;
+}
+#YesBtn {
+position: absolute;
+top: 650px;
+left: 840px;
+height: 30px;
+width: 100px;
+background-color:darkgrey;
+color: white;
+padding: 15px 10px;
+text-align: center;
+text-decoration: none;
+}
+#NoBtn {
+position: absolute;
+top: 650px;
+left: 1100px;
+height: 30px;
+width: 100px;
+background-color:darkgrey;
+color: white;
+padding: 15px 10px;
+text-align: center;
+text-decoration: none;
+}

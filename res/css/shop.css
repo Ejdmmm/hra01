@@ -1,0 +1,57 @@
+body {
+    background-image: url(/res/img/shop.jpeg);
+}
+#nadpis {
+    font-size: 50px;
+    color:cornsilk;
+    font-family: fantasy;
+    text-align: center;
+}
+#info {
+    text-align: center;
+    font-size: 25px;
+    font-family: fantasy;
+    color: rgb(255, 136, 0);
+}
+#armor2 {
+    position: absolute;
+    left: 350px;
+    top: 500px;
+}
+#sword1 {
+    position: absolute;
+    top: 240px;
+    left: 350px;
+}
+#GoBack {
+    height: 50px;
+    width: 230px;
+    background-color:rgb(237, 100, 230);
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    
+}
+#money {
+    font-family: fantasy;
+    font-size: 25px;
+    color:rgb(217, 255, 0);
+    position: absolute;
+    bottom: 10px;
+}
+#koral {
+    position: absolute;
+    top: 523px;
+    left: 984px;
+}
+#sword1 {
+    font-size: 25px;
+    color:darkred;
+}
+#armor2 {
+    font-size: 25px;
+    color: darkred;
+}
+#hp {
+    display:none;
+}
