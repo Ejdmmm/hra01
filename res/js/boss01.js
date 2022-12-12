@@ -32,6 +32,9 @@ btn.onmousedown = () => {
     
     clearInterval(interval);
     btn.style.pointerEvents="none";
+    setTimeout(() => {
+      location.reload();
+    }, 2000);
   } 
 };
 btn.onmouseup = () => {
