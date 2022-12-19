@@ -23,6 +23,7 @@ btn.onmousedown = () => {
     if (hp.innerHTML > 0 && hp2.innerHTML > 0){
         div.style.left = "580px";
         hp2.innerHTML-=(sharpness*2)
+      
       }
   if (hp2.innerHTML <= 0) {
     info.innerText = "Zabil jsi Skeletrona dostáváš 10 emeraldů!"

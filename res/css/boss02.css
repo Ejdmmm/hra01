@@ -17,16 +17,18 @@ body {
     color: aliceblue;
 }
 #hp {
-    color:aliceblue;
+  color:rgb(14, 255, 1);
     position: absolute;
-    top: 565px;
+    top: 555px;
     left: 60px; 
+    font-size: 25px;
 }
 #hp2 {
-    color: aliceblue;
+  color: rgb(255, 5, 26);
     position: absolute;
-    top: 565px;
+    top: 555px;
     left: 700px;
+    font-size: 25px;
 }
 #btn {
     position: absolute;
